@@ -1,0 +1,10 @@
+C:\Users\Chavezvjol64\source\repos\Aplicasion1\Aplicasion1\bin\Debug\Aplicasion1.exe.config
+C:\Users\Chavezvjol64\source\repos\Aplicasion1\Aplicasion1\bin\Debug\Aplicasion1.exe
+C:\Users\Chavezvjol64\source\repos\Aplicasion1\Aplicasion1\bin\Debug\Aplicasion1.pdb
+C:\Users\Chavezvjol64\source\repos\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.csprojAssemblyReference.cache
+C:\Users\Chavezvjol64\source\repos\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.Form1.resources
+C:\Users\Chavezvjol64\source\repos\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.Properties.Resources.resources
+C:\Users\Chavezvjol64\source\repos\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.csproj.GenerateResource.cache
+C:\Users\Chavezvjol64\source\repos\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.csproj.CoreCompileInputs.cache
+C:\Users\Chavezvjol64\source\repos\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.exe
+C:\Users\Chavezvjol64\source\repos\Aplicasion1\Aplicasion1\obj\Debug\Aplicasion1.pdb
